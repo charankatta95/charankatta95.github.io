@@ -44,12 +44,12 @@ margin: 0;
 }
 .topcloud{
   position: absolute;
-  right: 300px;
+  right: 350px;
   top: 50px;
 }
 .bottomcloud{
   position: absolute;
-  left: 300px;
+  left: 350px;
   bottom: 300px;
 }
 .middle-container{
